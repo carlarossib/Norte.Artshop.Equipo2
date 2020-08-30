@@ -1,0 +1,7 @@
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\bin\ArtShop.Services.Contracts.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\bin\ArtShop.Services.Contracts.pdb
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Services\ArtShop.Services.Contracts\obj\Debug\ArtShop.Services.Contracts.csprojAssemblyReference.cache
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Services\ArtShop.Services.Contracts\obj\Debug\ArtShop.Services.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Services\ArtShop.Services.Contracts\obj\Debug\ArtShop.Services.Contracts.csproj.CopyComplete
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Services\ArtShop.Services.Contracts\obj\Debug\ArtShop.Services.Contracts.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Services\ArtShop.Services.Contracts\obj\Debug\ArtShop.Services.Contracts.pdb

@@ -1,0 +1,13 @@
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\bin\Debug\ArtShop.Test.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\bin\Debug\ArtShop.Test.pdb
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\bin\Debug\ArtShop.Business.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\bin\Debug\ArtShop.Entities.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\bin\Debug\ArtShop.Business.pdb
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\bin\Debug\ArtShop.Entities.pdb
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\obj\Debug\ArtShop.Test.csprojAssemblyReference.cache
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\obj\Debug\ArtShop.Test.csproj.CoreCompileInputs.cache
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\obj\Debug\ArtShop.Test.csproj.CopyComplete
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\obj\Debug\ArtShop.Test.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Tests\ArtShop.Test\obj\Debug\ArtShop.Test.pdb

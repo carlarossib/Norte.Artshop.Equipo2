@@ -1,0 +1,6 @@
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\bin\ArtShop.Entities.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\bin\ArtShop.Entities.pdb
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Shared\ArtShop.Entities\obj\Debug\ArtShop.Entities.csprojAssemblyReference.cache
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Shared\ArtShop.Entities\obj\Debug\ArtShop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Shared\ArtShop.Entities\obj\Debug\ArtShop.Entities.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Shared\ArtShop.Entities\obj\Debug\ArtShop.Entities.pdb

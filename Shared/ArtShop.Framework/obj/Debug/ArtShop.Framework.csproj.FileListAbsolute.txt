@@ -1,0 +1,6 @@
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\bin\ArtShop.Framework.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\bin\ArtShop.Framework.pdb
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Shared\ArtShop.Framework\obj\Debug\ArtShop.Framework.csprojAssemblyReference.cache
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Shared\ArtShop.Framework\obj\Debug\ArtShop.Framework.csproj.CoreCompileInputs.cache
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Shared\ArtShop.Framework\obj\Debug\ArtShop.Framework.dll
+C:\Users\ad380438\OneDrive - Golden Arch Development Corp\Personal\FACULTAD\4to Año\MCGA\Proyecto practico\Shared\ArtShop.Framework\obj\Debug\ArtShop.Framework.pdb
